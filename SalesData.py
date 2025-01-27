@@ -1,6 +1,6 @@
 """
     Name: Patricia Gariando
-    Student ID: 991 446 494
+    Student ID: 000 000 000
     Task: Assignment 4
     Date: Dec. 7 2023
 """
@@ -148,4 +148,4 @@ def main():
         addSalesForce(salesDataList) # save new data 
 
 if __name__ == "__main__": main() # call the main function 
-print("\nPatricia J. Gariando: 991 446 494\n") # display name and student ID
+print("\nPatricia J. Gariando: 000 000 000\n") # display name and student ID
